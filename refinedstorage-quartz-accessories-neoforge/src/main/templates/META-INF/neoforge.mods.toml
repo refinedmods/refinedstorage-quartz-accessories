@@ -1,0 +1,18 @@
+modLoader = "javafml"
+loaderVersion = "[2,)"
+issueTrackerURL = "https://github.com/refinedmods/refinedstorage-quartz-accessories"
+license = "MIT"
+[[mods]]
+modId = "refinedstorage_quartz_accessories"
+version = "${version}"
+displayName = "Refined Storage - Quartz Accessories"
+displayURL = "https://refinedmods.com/refined-storage"
+authors = "Refined Mods"
+description = '''
+Quartz Accessories is an addon for Refined Storage that adds various quartz tools and blocks.
+'''
+[[dependencies.refinedstorage_quartz_accessories]]
+modId = "refinedstorage"
+type = "required"
+versionRange = "0.0.0"
+side = "BOTH"
