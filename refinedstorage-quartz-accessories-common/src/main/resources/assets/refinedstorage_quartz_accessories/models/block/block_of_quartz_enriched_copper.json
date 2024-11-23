@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "refinedstorage_quartz_accessories:block/block_of_quartz_enriched_copper"
+  }
+}
