@@ -15,6 +15,9 @@ repositories {
 refinedarchitect {
     modId = "refinedstorage_quartz_accessories"
     neoForge()
+    publishing {
+        maven = true
+    }
 }
 
 base {

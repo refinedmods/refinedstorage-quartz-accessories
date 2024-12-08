@@ -8,5 +8,5 @@ refinedarchitect {
 }
 
 subprojects {
-    group = "com.refinedmods.refinedstorage.quartzaccessories"
+    group = "com.refinedmods.refinedstorage"
 }
