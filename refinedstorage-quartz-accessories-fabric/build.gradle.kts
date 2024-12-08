@@ -23,6 +23,9 @@ repositories {
 refinedarchitect {
     modId = "refinedstorage_quartz_accessories"
     fabric()
+    publishing {
+        maven = true
+    }
 }
 
 base {
